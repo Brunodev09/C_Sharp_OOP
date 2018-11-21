@@ -1,0 +1,6 @@
+/home/pbx/Projects/ArrayLists_Dimensional/ArrayLists_Dimensional/bin/Debug/ArrayLists_Dimensional.exe
+/home/pbx/Projects/ArrayLists_Dimensional/ArrayLists_Dimensional/bin/Debug/ArrayLists_Dimensional.pdb
+/home/pbx/Projects/ArrayLists_Dimensional/ArrayLists_Dimensional/obj/x86/Debug/ArrayLists_Dimensional.csprojAssemblyReference.cache
+/home/pbx/Projects/ArrayLists_Dimensional/ArrayLists_Dimensional/obj/x86/Debug/ArrayLists_Dimensional.csproj.CoreCompileInputs.cache
+/home/pbx/Projects/ArrayLists_Dimensional/ArrayLists_Dimensional/obj/x86/Debug/ArrayLists_Dimensional.exe
+/home/pbx/Projects/ArrayLists_Dimensional/ArrayLists_Dimensional/obj/x86/Debug/ArrayLists_Dimensional.pdb
