@@ -24,7 +24,7 @@ namespace OOP_1
         public void Speak() {
             if (age != null && name != null) {
                 if (age >= 2) Console.WriteLine("I'm human, my name is " + this.name + " and I can speak!");
-                else Console.WriteLine("momma, papa, baby");
+                else Console.WriteLine("gugu-dada <--- baby speech");
             }
         }
         private int Conversion(string age) {
