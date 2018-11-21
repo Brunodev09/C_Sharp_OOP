@@ -1,0 +1,6 @@
+/home/bruno/Projects/OOP_1/OOP_1/bin/Debug/OOP_1.exe
+/home/bruno/Projects/OOP_1/OOP_1/bin/Debug/OOP_1.pdb
+/home/bruno/Projects/OOP_1/OOP_1/obj/x86/Debug/OOP_1.csprojAssemblyReference.cache
+/home/bruno/Projects/OOP_1/OOP_1/obj/x86/Debug/OOP_1.csproj.CoreCompileInputs.cache
+/home/bruno/Projects/OOP_1/OOP_1/obj/x86/Debug/OOP_1.exe
+/home/bruno/Projects/OOP_1/OOP_1/obj/x86/Debug/OOP_1.pdb

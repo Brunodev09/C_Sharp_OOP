@@ -1,0 +1,6 @@
+/home/bruno/Projects/hello-Csharp/hello-Csharp/bin/Debug/hello-Csharp.exe
+/home/bruno/Projects/hello-Csharp/hello-Csharp/bin/Debug/hello-Csharp.pdb
+/home/bruno/Projects/hello-Csharp/hello-Csharp/obj/x86/Debug/hello-Csharp.csprojAssemblyReference.cache
+/home/bruno/Projects/hello-Csharp/hello-Csharp/obj/x86/Debug/hello-Csharp.csproj.CoreCompileInputs.cache
+/home/bruno/Projects/hello-Csharp/hello-Csharp/obj/x86/Debug/hello-Csharp.exe
+/home/bruno/Projects/hello-Csharp/hello-Csharp/obj/x86/Debug/hello-Csharp.pdb
